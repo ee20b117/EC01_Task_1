@@ -4,7 +4,7 @@
 Prototype and design a wand that could scan the color off of any object and light up the dress that same color.
 
 ## Illustration
-![My Remote Image][https://content.instructables.com/ORIG/FMR/Q9FT/L49W2OUQ/FMRQ9FTL49W2OUQ.jpg?auto=webp&frame=1&fit=bounds&md=6985c9c1b9feda465e68b26f513f07ba]
+![My Remote Image](https://content.instructables.com/ORIG/FMR/Q9FT/L49W2OUQ/FMRQ9FTL49W2OUQ.jpg?auto=webp&frame=1&fit=bounds&md=6985c9c1b9feda465e68b26f513f07ba)
 ## Schematics
 
 ![image](https://user-images.githubusercontent.com/85028192/124805786-96dc7800-df79-11eb-86a4-c55f351caa7e.png)

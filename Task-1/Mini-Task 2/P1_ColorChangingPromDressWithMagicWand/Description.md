@@ -7,8 +7,11 @@ Prototype and design a wand that could scan the color off of any object and ligh
 ![My Remote Image](https://content.instructables.com/ORIG/FMR/Q9FT/L49W2OUQ/FMRQ9FTL49W2OUQ.jpg?auto=webp&frame=1&fit=bounds&md=6985c9c1b9feda465e68b26f513f07ba)
 ![My Remote Image](https://content.instructables.com/ORIG/FTO/ZW5Q/L4CQY9O3/FTOZW5QL4CQY9O3.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=bc4e37ce5b36441a457a3748afb9b9f8)
 
-## Schematics
+## Schematics of the wand (transmitter)
 ![My Remote Image](https://content.instructables.com/ORIG/FAB/9T32/L47DLNMH/FAB9T32L47DLNMH.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=2bbc478337ff10280d9320412de7cbd4)
+
+## Schematics of the dress (receiver)
+![My Remote Image](https://content.instructables.com/ORIG/FPS/RKL6/L49W4A5A/FPSRKL6L49W4A5A.jpg?auto=webp&frame=1&height=1024&fit=bounds&md=5c5237b6bb11f0e3da9543c3e8c367a4)
 
 ## Code
 

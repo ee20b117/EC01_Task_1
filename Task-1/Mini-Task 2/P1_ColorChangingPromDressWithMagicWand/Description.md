@@ -17,4 +17,6 @@ This project is about designing a prom dress that has the magic feature of chang
 ![My Remote Image](https://content.instructables.com/ORIG/FPS/RKL6/L49W4A5A/FPSRKL6L49W4A5A.jpg?auto=webp&frame=1&height=1024&fit=bounds&md=5c5237b6bb11f0e3da9543c3e8c367a4)
 
 ## Code
-The code corresponding to the micro controllers in the dress and wand are included as seperate code files in the same respoitary. 
+The code corresponding to the micro controllers in the dress and wand are included as links below.
+Code link for Color changing wand: https://github.com/dstockto/color_changing_wand
+Code link for Dress: https://github.com/dstockto/color_changing_dress

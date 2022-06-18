@@ -8,7 +8,7 @@ In order to contol the ESP8266, we use a mobile application called Blynk. The Bl
 ![My Remote Image](https://content.instructables.com/ORIG/FOW/MLK6/L4E6FYSG/FOWMLK6L4E6FYSG.png?auto=webp&frame=1&fit=bounds&md=7f3b362776f5c736627604c47afa6b0a)
 
 ## Code
-The Arduino code can be found here at 
+The Arduino code can be found ![here](https://github.com/ee20b117/EC_01_2.2/blob/sarav/Task-1/Mini-Task%202/P3_DIY%20Home%20Automation%20System/Arduino%20code)
 
 
 

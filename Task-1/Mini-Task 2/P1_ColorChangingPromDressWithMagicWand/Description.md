@@ -1,4 +1,4 @@
-### Color-Changing Prom Dress With Magic Wand
+# Color-Changing Prom Dress With Magic Wand
 	
 ## Problem Statement
 Prototype and design a wand that could scan the color off of any object and light up the dress that same color

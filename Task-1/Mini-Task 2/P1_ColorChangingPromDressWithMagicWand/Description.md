@@ -5,9 +5,10 @@ Prototype and design a wand that could scan the color off of any object and ligh
 
 ## Illustration
 ![My Remote Image](https://content.instructables.com/ORIG/FMR/Q9FT/L49W2OUQ/FMRQ9FTL49W2OUQ.jpg?auto=webp&frame=1&fit=bounds&md=6985c9c1b9feda465e68b26f513f07ba)
-## Schematics
+![My Remote Image](https://content.instructables.com/ORIG/FTO/ZW5Q/L4CQY9O3/FTOZW5QL4CQY9O3.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=bc4e37ce5b36441a457a3748afb9b9f8)
 
-![image](https://user-images.githubusercontent.com/85028192/124805786-96dc7800-df79-11eb-86a4-c55f351caa7e.png)
+## Schematics
+![My Remote Image](https://content.instructables.com/ORIG/FAB/9T32/L47DLNMH/FAB9T32L47DLNMH.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=2bbc478337ff10280d9320412de7cbd4)
 
 ## Code
 

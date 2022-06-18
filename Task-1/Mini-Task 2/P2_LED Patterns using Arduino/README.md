@@ -2,7 +2,7 @@
 Make an LED chain with multiple patterns using Arduino UNO.
 
 ## Description
-An LED chain is made by arranging nine LEDs one after ther other and make desired patterns by switching certain LEDs between ON and OFF states using Arduino UNO. Any pattern of choice can be made. However, one such pattern is given here. Using for loops, integer i is set as the pin number, first when i is 0, the pins 0, 1, 2 are set to HIGH and the pin before i is set to LOW ( there aren't any pin before i when i = 0). Then a 25ms delay is given before the loop continues. Another for loop is used  to reverse the pattern. This whole pattern is then repeated 3 times.
+An LED chain is made by arranging nine LEDs one after ther other and make desired patterns by switching certain LEDs between ON and OFF states using Arduino UNO. Any pattern of choice can be made. However, one such pattern is given here. Using for loops, integer i is set as the pin number, first when i is 0, the pins 0, 1, 2 are set to HIGH and the pin before i is set to LOW ( there aren't any pin before i when i = 0). Then a 25ms delay is given before the loop continues. Another for loop is used  to reverse the pattern. This whole pattern is then repeated 3 times. Seven such patterns are incorporated within the code. This is just one of them.
 
 ## Hardware Requirements
 Arduino Uno

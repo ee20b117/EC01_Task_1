@@ -9,6 +9,7 @@ In order to contol the ESP8266, we use a mobile application called Blynk. The Bl
 
 ## Code
 The Arduino code can be found ![here](https://github.com/ee20b117/EC_01_2.2/blob/sarav/Task-1/Mini-Task%202/P3_DIY%20Home%20Automation%20System/Arduino%20code)
+and the PCB Gerber file can be found ![here](https://github.com/ee20b117/EC_01_2.2/blob/sarav/Task-1/Mini-Task%202/P3_DIY%20Home%20Automation%20System/Gerber_File%20-%20Home_Automation_ESP8266.zip)
 
 
 

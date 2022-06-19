@@ -20,5 +20,6 @@ Since we need remote control over the devices, bluetooth or such short range con
 Here, we have chosen _NodeMCU_, which is based on _ESP8226_ Wi-Fi chip. It is programmable using Arduino IDE and can be accessed by the _Blynk_ app via _Auth_Token_. For this to work, we also require the Blynk Library to be installed in our IDE. 
 
 ## Prototyping Phase
-This phase is where we assemble the circuit on the breadboard. In case one wishes to have a PCB for the project, the corresponding Gerber file can be downloaded from ![here]()
+This phase is where we assemble the circuit on the breadboard. In case one wishes to have a PCB for the project, the corresponding Gerber file can be downloaded from ![here](https://github.com/ee20b117/EC_01_2.2/blob/sarav/Task-1/Mini-Task%202/P3_DIY%20Home%20Automation%20System/Gerber_File%20-%20Home_Automation_ESP8266.zip)
+Once assembling and connecting the components is done, the prototype must be tested for bugs and a debugging phase is often required. Based on the errors and the requirement-meet up of the project, getting back to the ideating phase may be required and we hence, work in a recurssive manner.
 
